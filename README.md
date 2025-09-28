@@ -4,7 +4,7 @@ Interactive Power BI dashboard built from Excel and PDF data to monitor logistic
 ---
 ## Data Source
 Excel files having data divided into 3 sheets.
-The difficulty lies in the language of the data, which was in french.
+The difficulty lies in the language of the data, which was in french. 
 
 ## 📸 Dashboard Preview
 
